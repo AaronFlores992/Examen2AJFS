@@ -70,6 +70,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.AccessibleDescription = "public";
             this.textBox1.Location = new System.Drawing.Point(172, 37);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
@@ -122,10 +123,10 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button botonCal;
         private System.Windows.Forms.Label Conversiones;
+        public System.Windows.Forms.ComboBox comboBox2;
+        public System.Windows.Forms.TextBox textBox1;
     }
 }
 
