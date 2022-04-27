@@ -1,0 +1,11 @@
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\bin\Debug\Examen2AJFS.exe.config
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\bin\Debug\Examen2AJFS.exe
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\bin\Debug\Examen2AJFS.pdb
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.csproj.AssemblyReference.cache
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.Form1.resources
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.Properties.Resources.resources
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.csproj.GenerateResource.cache
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.exe
+C:\Users\Jorge\VisualEstudio\Examen2AJFS\Examen2AJFS\obj\Debug\Examen2AJFS.pdb
