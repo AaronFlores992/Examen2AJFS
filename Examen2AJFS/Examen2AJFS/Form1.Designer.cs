@@ -34,6 +34,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.botonCal = new System.Windows.Forms.Button();
             this.Conversiones = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
             // label7
@@ -94,9 +95,18 @@
             this.Conversiones.TabIndex = 5;
             this.Conversiones.Text = "Conversiones";
             // 
+            // panel2
+            // 
+            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Location = new System.Drawing.Point(15, 141);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(257, 221);
+            this.panel2.TabIndex = 6;
+            // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(284, 374);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.Conversiones);
             this.Controls.Add(this.botonCal);
             this.Controls.Add(this.textBox1);
@@ -127,6 +137,7 @@
         private System.Windows.Forms.Label Conversiones;
         public System.Windows.Forms.ComboBox comboBox2;
         public System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Panel panel2;
     }
 }
 

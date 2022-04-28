@@ -28,8 +28,8 @@ namespace Examen2AJFS
         private void InicializarComponentes()
         {
             agregarCheckBox();
-
-
+            botonCancelar.Click += new EventHandler(btnCancelar_Click);
+            botonAceptar.Click += new EventHandler(btnAceptar_Click);
         }
 
         private void agregarCheckBox() {
@@ -74,8 +74,12 @@ namespace Examen2AJFS
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
-      
+        private void btnAceptar_Click(Object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.OK;
+            this.Close();
+        }
 
-      
+
     }
 }
